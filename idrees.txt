@@ -1,0 +1,16 @@
+Mean Arrival : 1.0
+
+Mean Service : 1.0
+
+Total No. Customer : 6
+
+Total Time Of Simulation : 4.6211741095616246
+
+Average Queue Length : 6.817136329917113
+
+Maximum Queue Length : 4
+
+Average Buzy Time of Server 2.7734407854414633
+
+Long Service : 1.703069282382379
+
